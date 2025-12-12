@@ -4,7 +4,7 @@
   <title>Noticias Actualidad – Atom</title>
   <subtitle>Canal Atom con noticias reales de actualidad.</subtitle>
 
-  <link rel="self" href="https://example.com/feed_atom.xml" type="application/atom+xml"/>
+  <link rel="self" href="https://github.com/mindbloow/feed-asir-ra3/blob/main/feed_atom.xml" type="application/atom+xml"/>
   <link rel="alternate" href="https://example.com/"/>
 
   <updated>2025-12-12T10:00:00Z</updated>
@@ -44,3 +44,4 @@
   </entry>
 
 </feed>
+
