@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noticias Actualidad – RSS</title>
+    <link>https://example.com/</link>
+    <description>Canal RSS con noticias reales de actualidad.</description>
+    <language>es-es</language>
+
+    <lastBuildDate>Tue, 09 Dec 2025 10:00:00 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 10:00:00 +0000</pubDate>
+
+    <!-- Enlace al propio feed (requisito del validador) -->
+    <atom:link href="https://example.com/feed_rss.xml" 
+               rel="self" 
+               type="application/rss+xml" />
+
+    <item>
+      <title>EL PAÍS amplía su liderazgo en la prensa generalista</title>
+      <link>https://elpais.com/comunicacion/2025-12-12/el-pais-amplia-liderazgo</link>
+      <description>EL PAÍS incrementa su número de lectores un 14,8 % en 2025, consolidándose como el diario líder en España.</description>
+      <pubDate>Fri, 12 Dec 2025 08:00:00 +0000</pubDate>
+      <guid>https://elpais.com/comunicacion/2025-12-12/el-pais-amplia-liderazgo</guid>
+    </item>
+
+    <item>
+      <title>Sánchez defiende la sanidad pública frente a privatizaciones</title>
+      <link>https://elpais.com/espana/2025-12-06/sanchez-sanidad-publica</link>
+      <description>El presidente del Gobierno destaca la importancia de la sanidad pública durante un acto oficial.</description>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0000</pubDate>
+      <guid>https://elpais.com/espana/2025-12-06/sanchez-sanidad-publica</guid>
+    </item>
+
+    <item>
+      <title>Luis Tosar critica el negacionismo franquista en redes sociales</title>
+      <link>https://www.huffingtonpost.es/virales/luis-tosar-franquismo</link>
+      <description>Mensaje viral de Luis Tosar dirigido a jóvenes que simpatizan con el franquismo.</description>
+      <pubDate>Wed, 10 Dec 2025 14:30:00 +0000</pubDate>
+      <guid>https://www.huffingtonpost.es/virales/luis-tosar-franquismo</guid>
+    </item>
+
+  </channel>
+</rss>

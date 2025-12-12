@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Noticias Actualidad – Atom</title>
+  <subtitle>Canal Atom con noticias reales de actualidad.</subtitle>
+
+  <link rel="self" href="https://example.com/feed_atom.xml" type="application/atom+xml"/>
+  <link rel="alternate" href="https://example.com/"/>
+
+  <updated>2025-12-12T10:00:00Z</updated>
+  <id>https://example.com/feed/atom</id>
+
+  <entry>
+    <title>EL PAÍS amplía su liderazgo en la prensa generalista</title>
+    <link rel="alternate" href="https://elpais.com/comunicacion/2025-12-12/el-pais-amplia-liderazgo"/>
+    <id>https://elpais.com/comunicacion/2025-12-12/el-pais-amplia-liderazgo</id>
+    <updated>2025-12-12T08:00:00Z</updated>
+    <summary>EL PAÍS incrementa sus lectores un 14,8 % en 2025, consolidándose como el diario líder en España.</summary>
+    <author>
+      <name>EL PAÍS</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Sánchez defiende la sanidad pública frente a privatizaciones</title>
+    <link rel="alternate" href="https://elpais.com/espana/2025-12-06/sanchez-sanidad-publica"/>
+    <id>https://elpais.com/espana/2025-12-06/sanchez-sanidad-publica</id>
+    <updated>2025-12-06T12:00:00Z</updated>
+    <summary>El presidente del Gobierno destaca la importancia de la sanidad pública frente a las propuestas de privatización.</summary>
+    <author>
+      <name>EL PAÍS</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Luis Tosar critica el negacionismo franquista en redes sociales</title>
+    <link rel="alternate" href="https://www.huffingtonpost.es/virales/luis-tosar-franquismo"/>
+    <id>https://www.huffingtonpost.es/virales/luis-tosar-franquismo</id>
+    <updated>2025-12-10T14:30:00Z</updated>
+    <summary>Mensaje viral de Luis Tosar dirigido a jóvenes que simpatizan con el franquismo.</summary>
+    <author>
+      <name>Huffington Post España</name>
+    </author>
+  </entry>
+
+</feed>
