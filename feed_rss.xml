@@ -8,9 +8,8 @@
 
     <lastBuildDate>Tue, 09 Dec 2025 10:00:00 +0000</lastBuildDate>
     <pubDate>Tue, 09 Dec 2025 10:00:00 +0000</pubDate>
-
-    <!-- Enlace al propio feed (requisito del validador) -->
-    <atom:link href="https://example.com/feed_rss.xml" 
+    
+    <atom:link href="https://github.com/mindbloow/feed-asir-ra3/blob/main/feed_rss.xml" 
                rel="self" 
                type="application/rss+xml" />
 
@@ -40,3 +39,4 @@
 
   </channel>
 </rss>
+
